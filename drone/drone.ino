@@ -64,15 +64,15 @@ void loop() {
     forward();
   }
 
-  while(digitalRead(BKPIN) != HIGH) {
+  while(digitalRead(BKPIN) == LOW) {
     back();
   }
 
-  while(digitalRead(LFTPIN) != HIGH) {
+  while(digitalRead(LFTPIN) == LOW) {
     left();
   }
 
-  while(digitalRead(RGTPIN) != HIGH) {
+  while(digitalRead(RGTPIN) == LOW) {
     right();
   }
 }
