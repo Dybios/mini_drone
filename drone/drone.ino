@@ -1,12 +1,12 @@
-#define MOTOR1 2
-#define MOTOR2 3
-#define MOTOR3 5
-#define MOTOR4 6
+#define MOTOR1 5
+#define MOTOR2 9
+#define MOTOR3 6
+#define MOTOR4 10
 
-#define FWDPIN 8
-#define BKPIN 9
-#define LFTPIN 10
-#define RGTPIN 11
+#define FWDPIN 2
+#define BKPIN 3
+#define LFTPIN 4
+#define RGTPIN 7
 
 void setup() {
   // put your setup code here, to run once:
@@ -29,10 +29,10 @@ void forward() {
 }
 
 void back() {
-  analogWrite(MOTOR1, 100);
-  analogWrite(MOTOR2, 100);
-  analogWrite(MOTOR3, 255);
-  analogWrite(MOTOR4, 255);  
+  analogWrite(MOTOR1, 255);
+  analogWrite(MOTOR2, 255);
+  analogWrite(MOTOR3, 100);
+  analogWrite(MOTOR4, 100);  
 }
 
 void left() {
