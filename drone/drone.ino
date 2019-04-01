@@ -1,25 +1,12 @@
-#define MOTOR1 5
+#define MOTOR1 3
 #define MOTOR2 9
-#define MOTOR3 6
-#define MOTOR4 10
+#define MOTOR3 10
+#define MOTOR4 11
 
 #define FWDPIN 2
-#define BKPIN 3
-#define LFTPIN 4
-#define RGTPIN 7
-
-void setup() {
-  // put your setup code here, to run once:
-  pinMode(MOTOR1, OUTPUT);
-  pinMode(MOTOR2, OUTPUT);
-  pinMode(MOTOR3, OUTPUT);
-  pinMode(MOTOR4, OUTPUT);
-
-  pinMode(FWDPIN, INPUT_PULLUP);
-  pinMode(BKPIN, INPUT_PULLUP);
-  pinMode(LFTPIN, INPUT_PULLUP);
-  pinMode(RGTPIN, INPUT_PULLUP);  
-}
+#define BKPIN 4
+#define LFTPIN 7
+#define RGTPIN 8
 
 void forward() {
   analogWrite(MOTOR1, 100);
@@ -54,6 +41,20 @@ void hover() {
   analogWrite(MOTOR2, 255);
   analogWrite(MOTOR3, 255);
   analogWrite(MOTOR4, 255);
+}
+
+
+void setup() {
+  // put your setup code here, to run once:
+  pinMode(MOTOR1, OUTPUT);
+  pinMode(MOTOR2, OUTPUT);
+  pinMode(MOTOR3, OUTPUT);
+  pinMode(MOTOR4, OUTPUT);
+
+  pinMode(FWDPIN, INPUT_PULLUP);
+  pinMode(BKPIN, INPUT_PULLUP);
+  pinMode(LFTPIN, INPUT_PULLUP);
+  pinMode(RGTPIN, INPUT_PULLUP);  
 }
 
 void loop() {
