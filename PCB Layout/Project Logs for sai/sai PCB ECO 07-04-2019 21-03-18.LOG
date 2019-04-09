@@ -1,0 +1,110 @@
+Removed Pin From Net: NetName=NetB1_2 Pin=B2-2
+Removed Pin From Net: NetName=NetB1_2 Pin=B3-2
+Removed Pin From Net: NetName=NetB1_2 Pin=BT1-1
+Removed Pin From Net: NetName=NetBT1_2 Pin=BT1-2
+Removed Pin From Net: NetName=NetP1_5 Pin=P2-1
+Removed Pin From Net: NetName=NetP1_4 Pin=P2-2
+Removed Pin From Net: NetName=NetB1_2 Pin=Q1-1
+Removed Pin From Net: NetName=NetBT1_2 Pin=Q1-2
+Removed Pin From Net: NetName=NetD1_1 Pin=Q1-3
+Removed Pin From Net: NetName=NetB1_2 Pin=Q3-1
+Removed Pin From Net: NetName=NetBT1_2 Pin=Q3-2
+Removed Pin From Net: NetName=NetD3_1 Pin=Q3-3
+Removed Pin From Net: NetName=NetB1_2 Pin=Q5-1
+Removed Pin From Net: NetName=NetBT1_2 Pin=Q5-2
+Removed Pin From Net: NetName=NetD2_1 Pin=Q5-3
+Removed Pin From Net: NetName=NetB1_2 Pin=Q7-1
+Removed Pin From Net: NetName=NetBT1_2 Pin=Q7-2
+Removed Pin From Net: NetName=NetD4_1 Pin=Q7-3
+Removed Pin From Net: NetName=GND Pin=U1-2
+Removed Pin From Net: NetName=GND Pin=U2-2
+Removed Pin From Net: NetName=GND Pin=U4-2
+Removed Pin From Net: NetName=GND Pin=U5-2
+Removed Member From Class: ClassName=sai Member=BT1
+Removed Member From Class: ClassName=sai Member=Q1
+Removed Member From Class: ClassName=sai Member=Q3
+Removed Member From Class: ClassName=sai Member=Q5
+Removed Member From Class: ClassName=sai Member=Q7
+Added Component: Designator=P?(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Q?(E3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "TO, Flat Index; 3 In-Line, Axial Leads; Body Dia. 4.6mm; Lead Dia. 0.5 mm (max)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "E3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "1995/1996"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Q?(E3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "TO, Flat Index; 3 In-Line, Axial Leads; Body Dia. 4.6mm; Lead Dia. 0.5 mm (max)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "E3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "1995/1996"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Q?(E3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "TO, Flat Index; 3 In-Line, Axial Leads; Body Dia. 4.6mm; Lead Dia. 0.5 mm (max)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "E3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "1995/1996"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Q?(E3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "TO, Flat Index; 3 In-Line, Axial Leads; Body Dia. 4.6mm; Lead Dia. 0.5 mm (max)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "E3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "1995/1996"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetB1_2 Pin=B2-1
+Added Pin To Net: NetName=NetB1_2 Pin=B3-1
+Added Pin To Net: NetName=NetP1_4 Pin=P2-1
+Added Pin To Net: NetName=NetR5_1 Pin=P2-2
+Added Pin To Net: NetName=NetB1_2 Pin=P?-1
+Added Pin To Net: NetName=NetBT1_2 Pin=P?-2
+Added Pin To Net: NetName=NetBT1_2 Pin=Q?-1
+Added Pin To Net: NetName=NetBT1_2 Pin=Q?-1
+Added Pin To Net: NetName=NetBT1_2 Pin=Q?-1
+Added Pin To Net: NetName=NetBT1_2 Pin=Q?-1
+Added Pin To Net: NetName=NetB1_2 Pin=Q?-2
+Added Pin To Net: NetName=NetB1_2 Pin=Q?-2
+Added Pin To Net: NetName=NetB1_2 Pin=Q?-2
+Added Pin To Net: NetName=NetB1_2 Pin=Q?-2
+Added Pin To Net: NetName=NetD1_1 Pin=Q?-3
+Added Pin To Net: NetName=NetD2_1 Pin=Q?-3
+Added Pin To Net: NetName=NetD3_1 Pin=Q?-3
+Added Pin To Net: NetName=NetD4_1 Pin=Q?-3
+Added Pin To Net: NetName=VCC Pin=U3-7
+Change Net Name : Old Net Name=GND New Net Name=NetP1_3
+Change Net Name : Old Net Name=NetBT1_2 New Net Name=NetP?_2
+Change Net Name : Old Net Name=NetR5_1 New Net Name=NetP2_2
+Change Net Name : Old Net Name=VCC New Net Name=NetP1_2
+Added Pin To Net: NetName=NetB2_2 Pin=B2-2
+Added Pin To Net: NetName=NetB2_2 Pin=D2-2
+Added Pin To Net: NetName=NetB2_2 Pin=R2-2
+Added Net: Name=NetB2_2
+Added Pin To Net: NetName=NetB3_2 Pin=B3-2
+Added Pin To Net: NetName=NetB3_2 Pin=D3-2
+Added Pin To Net: NetName=NetB3_2 Pin=R3-1
+Added Net: Name=NetB3_2
+Added Pin To Net: NetName=NetU1_2 Pin=U1-2
+Added Pin To Net: NetName=NetU1_2 Pin=U2-2
+Added Pin To Net: NetName=NetU1_2 Pin=U4-2
+Added Pin To Net: NetName=NetU1_2 Pin=U5-2
+Added Net: Name=NetU1_2
+Added Member To Class: ClassName=sai Member=Component P? Header 2
+Added Member To Class: ClassName=sai Member=Component Q? MOSFET-P
+Added Member To Class: ClassName=sai Member=Component Q? MOSFET-P
+Added Member To Class: ClassName=sai Member=Component Q? MOSFET-P
+Added Member To Class: ClassName=sai Member=Component Q? MOSFET-P
+Added Room: Name=sai

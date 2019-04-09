@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=NetB1_2 Pin=P0-2
+Removed Pin From Net: NetName=NetB1_2 Pin=Q1-2
+Removed Pin From Net: NetName=NetB1_2 Pin=Q2-2
+Removed Pin From Net: NetName=NetB1_2 Pin=Q3-2
+Removed Pin From Net: NetName=NetB1_2 Pin=Q4-2
+Removed Pin From Net: NetName=NetB1_2 Pin=U1-5
+Removed Pin From Net: NetName=NetB1_2 Pin=U2-5
+Removed Pin From Net: NetName=NetB1_2 Pin=U4-5
+Removed Pin From Net: NetName=NetB1_2 Pin=U5-5
+Added Pin To Net: NetName=NetP0_2 Pin=P0-2
+Added Pin To Net: NetName=NetP0_2 Pin=Q1-2
+Added Pin To Net: NetName=NetP0_2 Pin=Q2-2
+Added Pin To Net: NetName=NetP0_2 Pin=Q3-2
+Added Pin To Net: NetName=NetP0_2 Pin=Q4-2
+Added Pin To Net: NetName=NetP0_2 Pin=U1-5
+Added Pin To Net: NetName=NetP0_2 Pin=U2-5
+Added Pin To Net: NetName=NetP0_2 Pin=U4-5
+Added Pin To Net: NetName=NetP0_2 Pin=U5-5
+Added Net: Name=NetP0_2
+Added Room: Name=sai
